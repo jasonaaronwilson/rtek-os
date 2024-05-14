@@ -20,6 +20,6 @@ The initial proof of concept will focus on establishing the core functionality o
 
 As rtek-os evolves, future development may include:
 
-Expanded APIs: A broader range of APIs for various system functionalities.
-Performance Optimization: Continuous refinement to enhance performance and resource utilization.
-Cross-Compilation Toolchain: Development of robust tools to support cross-compilation across different platforms.
+* Expanded APIs: A broader range of APIs for various system functionalities.
+* Performance Optimization: Continuous refinement to enhance performance and resource utilization.
+* Cross-Compilation Toolchain: Development of robust tools to support cross-compilation across different platforms.
